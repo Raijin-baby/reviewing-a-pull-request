@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
@@ -8,6 +8,8 @@ To play the game:
 1. Select **main** from the Source drop-down.
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
+2. add stuffs
+3. add more stuffs
 
 ### Instructions for playing the game
 
