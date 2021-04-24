@@ -9,6 +9,7 @@ To play the game:
 1. Click **Save**.
 1. Navigate to the URL provided in the same section.
 2. add stuffs
+3. add more stuffs
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
